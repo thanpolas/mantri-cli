@@ -29,7 +29,7 @@ child.on('exit', function(code) {
   // If a local mantri isn't found, we might be grunting mantri itself.
   // Check for mantri's lib/mantri.js file.
   if (code !== 0) {
-    mantripath = findup('lib/mantri.js');
+    mantripath = findup('tasks/grunt-mantri.js');
     // No mantri install found!
     if (!mantripath) {
       if (options.version) { process.exit(); }
