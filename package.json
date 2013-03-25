@@ -1,8 +1,8 @@
 {
   "name": "mantri-cli",
   "description": "The mantri command line interface.",
-  "version": "0.1.6",
-  "author": "Grunt Team",
+  "version": "0.1.7",
+  "author": "Grunt Team, Thanasis Polychronakis",
   "homepage": "http://mantrijs.com/",
   "repository": {
     "type": "git",
