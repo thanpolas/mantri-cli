@@ -1,24 +1,24 @@
 {
-  "name": "grunt-cli",
-  "description": "The grunt command line interface.",
+  "name": "mantri-cli",
+  "description": "The mantri command line interface.",
   "version": "0.1.6",
   "author": "Grunt Team",
-  "homepage": "http://gruntjs.com/",
+  "homepage": "http://mantrijs.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-cli.git"
+    "url": "git://github.com/closureplease/mantri-cli.git"
   },
   "bugs": {
-    "url": "http://github.com/gruntjs/grunt-cli/issues"
+    "url": "http://github.com/closureplease/mantri-cli/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/gruntjs/grunt-cli/blob/master/LICENSE-MIT"
+      "url": "http://github.com/closureplease/mantri-cli/blob/master/LICENSE-MIT"
     }
   ],
   "bin": {
-    "grunt": "bin/grunt"
+    "mantri": "bin/mantri"
   },
   "engines": {
     "node": ">= 0.8.0"
